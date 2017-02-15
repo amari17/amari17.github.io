@@ -1,2 +1,2 @@
 # amari17.github.io
-This repository holds the materials for the creation of a webpage using Github pages.
+My name is Amarillys. This repository holds the materials for my Github homepage and is a work in progress. Created 02/14/17.
